@@ -1,0 +1,4 @@
+population	max_af	group	full_fig1_gene_count	retained_variants	masked_variants	total_variants	source_path	source_sha256
+Human EAS	0.001	Pol II splice-RNUs	41	816	214	1030	data/processed/figure2_fig1_human_populations_20260825/results/eas/pol2_spliceRNUs_fig1_af1e-3.result	a40f6ed9ffe297c024bd773666e2e8260264cfa108655fbdf3d585a175fb169e
+Human EAS	0.001	U6	116	349	121	470	data/processed/figure2_fig1_human_populations_20260825/results/eas/functional_U6s_fig1_af1e-3.result	9968d8f6827066a16bc580194a54d33e713f974a4501840299ab417d37326c1c
+Human EAS	0.001	Pseudo-RNUs	1362	3771	1217	4988	data/processed/figure2_pseudo1362_legacy_intervals_20261005/EAS/pseudo.result	f373b9d1f9239bad16b2acd6bd7aafee49d17687812e28bbbf1af1247e1073fc

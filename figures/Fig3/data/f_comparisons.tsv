@@ -1,0 +1,4 @@
+analysis_group	human_overlap	human_total	mouse_overlap	mouse_total	odds_ratio_human_vs_mouse	fisher_exact_p_two_sided
+pol2_spliceRNUs	35	41	27	39	2.5925925925925926	0.11037199448099282
+functional_U6s	14	116	19	63	0.31785345717234265	0.004378877386883357
+RNU_pseudogenes	71	1362	109	1032	0.46570114909855814	1.4532925196218458e-06

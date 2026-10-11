@@ -1,0 +1,10 @@
+species	display	clade	gene_count	reference	status
+Homo sapiens	Human	Primates	7	uriu2021	Published RefSeq gene annotation; includes outside-locus genes
+Pan troglodytes	Chimpanzee	Primates	8	uriu2021	Published RefSeq gene annotation; includes outside-locus genes
+Macaca mulatta	Macaque	Primates	7	uriu2021	Published RefSeq gene annotation; includes outside-locus genes
+Papio anubis	Baboon	Primates	6	uriu2021	Published RefSeq gene annotation; includes outside-locus genes
+Callithrix jacchus	Marmoset	Primates	9	uriu2021	Published RefSeq gene annotation; includes outside-locus genes
+Rattus norvegicus	Rat	Rodentia	1	larue2009	Published gene-level repertoire
+Mus musculus	Mouse	Rodentia	1	larue2009	Published gene-level repertoire
+Cricetulus griseus	Hamster	Rodentia	1	ncbi_hamster_20260914	One annotated APOBEC3-associated Gene record (100772476); not a de novo homology survey
+Gallus gallus	Chicken	Outgroup	0	Conticello et al. 2005; PMID 31991164 (2020)	Published absence of APOBEC3; not absence of all AID/APOBEC genes

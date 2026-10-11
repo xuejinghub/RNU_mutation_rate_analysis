@@ -1,0 +1,8 @@
+figure	panel	species	step	n	definition	incoming_filter
+S1	a	Human	1	200	200 putatively functional snRNA genes; Literature-guided candidate set [1]	
+S1	a	Human	2	82	82 candidate Pol II; spliceosomal snRNA genes	Exclude U6 and U6atac; (118 genes)
+S1	a	Human	3	44	44 POLR2A-supported loci; with harmonized GENCODE identities	Overlap POLR2A peaks; (mean fold enrichment > 2)
+S1	a	Human	4	41	41 Pol II splice-RNUs; retained for mutation analysis	Autosomes; coverage AND mappability;; ≥50 effective callable bases
+S1	c	Rhesus macaque	1	41	41 human Pol II splice-RNUs; used as mapping queries	
+S1	c	Rhesus macaque	2	29	29 one-to-one; synteny relationships	Tiered gene-body / flanking synteny;; family-aware candidate assignment;; exclude non-unique synteny relationships
+S1	c	Rhesus macaque	3	28	28 macaque Pol II splice-RNUs; retained for mutation analysis	Coverage AND mappability;; mapped interval ≥50 callable bases;; gene ≥50 effective callable bases

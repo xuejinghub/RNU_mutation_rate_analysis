@@ -1,0 +1,17 @@
+figure	panel	species	stage	family	count
+S6	b	Chicken	Supported candidates	U1	8
+S6	b	Chicken	Supported candidates	U2	1
+S6	b	Chicken	Supported candidates	U4	2
+S6	b	Chicken	Supported candidates	U5	3
+S6	b	Chicken	Supported candidates	U6	9
+S6	b	Chicken	Supported candidates	U4atac	0
+S6	b	Chicken	Supported candidates	U6atac	0
+S6	b	Chicken	Supported candidates	U11	0
+S6	b	Chicken	Supported candidates	U12	1
+S6	c	Chicken	Final Pol II	U1	7
+S6	c	Chicken	Final Pol II	U2	1
+S6	c	Chicken	Final Pol II	U4	2
+S6	c	Chicken	Final Pol II	U5	3
+S6	c	Chicken	Final Pol II	U4atac	0
+S6	c	Chicken	Final Pol II	U11	0
+S6	c	Chicken	Final Pol II	U12	1

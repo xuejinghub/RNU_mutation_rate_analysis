@@ -1,0 +1,15 @@
+figure	panel	species	stage	family	count
+S1	b	Human	Final Pol II	U1	25
+S1	b	Human	Final Pol II	U2	2
+S1	b	Human	Final Pol II	U4	3
+S1	b	Human	Final Pol II	U5	8
+S1	b	Human	Final Pol II	U4atac	1
+S1	b	Human	Final Pol II	U11	1
+S1	b	Human	Final Pol II	U12	1
+S1	d	Rhesus macaque	Final Pol II	U1	12
+S1	d	Rhesus macaque	Final Pol II	U2	2
+S1	d	Rhesus macaque	Final Pol II	U4	3
+S1	d	Rhesus macaque	Final Pol II	U5	8
+S1	d	Rhesus macaque	Final Pol II	U4atac	1
+S1	d	Rhesus macaque	Final Pol II	U11	1
+S1	d	Rhesus macaque	Final Pol II	U12	1

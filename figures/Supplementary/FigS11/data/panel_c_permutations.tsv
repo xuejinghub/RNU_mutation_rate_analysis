@@ -1,0 +1,4 @@
+sample	target_cosine	null_mean	null_95th_percentile	exceedances	permutations	empirical_p	pvalue_method	seed	significant_raw_p_0.05	full_fig1_gene_count
+Pol II splice-RNUs	0.8915339102856498	0.8461869457575865	0.8759190405965844	5	1000	0.005	notebook	42	True	
+U6	0.9102428010730114	0.9058431618057242	0.911515271896315	56	1000	0.056	notebook	42	False	
+Pseudo-RNUs	0.990552258265107	0.9905522582651068	0.990552258265107	1000	1000	1.0	notebook	42	False	1362.0

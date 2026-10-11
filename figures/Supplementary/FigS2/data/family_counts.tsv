@@ -1,0 +1,15 @@
+figure	panel	species	stage	family	count
+S2	b	Chimpanzee	Final Pol II	U1	12
+S2	b	Chimpanzee	Final Pol II	U2	2
+S2	b	Chimpanzee	Final Pol II	U4	3
+S2	b	Chimpanzee	Final Pol II	U5	8
+S2	b	Chimpanzee	Final Pol II	U4atac	1
+S2	b	Chimpanzee	Final Pol II	U11	1
+S2	b	Chimpanzee	Final Pol II	U12	1
+S2	d	Baboon	Final Pol II	U1	7
+S2	d	Baboon	Final Pol II	U2	0
+S2	d	Baboon	Final Pol II	U4	3
+S2	d	Baboon	Final Pol II	U5	6
+S2	d	Baboon	Final Pol II	U4atac	0
+S2	d	Baboon	Final Pol II	U11	1
+S2	d	Baboon	Final Pol II	U12	1

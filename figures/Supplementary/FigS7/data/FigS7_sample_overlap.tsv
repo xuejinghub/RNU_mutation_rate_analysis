@@ -1,0 +1,4 @@
+sample_size_1	sample_size_2	shared_individuals	nested
+500	200	45	False
+500	100	24	False
+200	100	12	False

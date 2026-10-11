@@ -1,0 +1,13 @@
+panel	gene_set	n_tested	n_dots	n_hidden_high	condition
+a	POL2_spliceRNUs_strict41	37	37	0	
+a	functional_U6_U6ATAC_116	110	110	0	
+a	RNU_pseudogene_operational_complement	1252	1252	0	
+c	POL2_spliceRNUs_strict41	32	32	0	
+c	functional_U6_U6ATAC_116	91	89	2	
+c	RNU_pseudogene_operational_complement	1039	1039	0	
+e	POL2_spliceRNUs_strict41	37	37	0	lipid_control
+e	POL2_spliceRNUs_strict41	37	37	0	rnaseh1
+e	functional_U6_U6ATAC_116	116	116	0	lipid_control
+e	functional_U6_U6ATAC_116	116	116	0	rnaseh1
+e	RNU_pseudogene_operational_complement	1360	1360	0	lipid_control
+e	RNU_pseudogene_operational_complement	1360	1360	0	rnaseh1

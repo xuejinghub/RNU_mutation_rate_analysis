@@ -1,0 +1,7 @@
+figure	panel	species	step	n	definition	incoming_filter
+S6	a	Chicken	1	82	82 annotated snRNA genes; Ensembl release 115	
+S6	a	Chicken	2	74	74 autosomal; snRNA genes	Restrict to chromosomes 1–39; (exclude eight Z/W-linked loci)
+S6	a	Chicken	3	72	72 autosomal; non-U7 snRNA genes	Exclude two U7 genes
+S6	a	Chicken	4	24	24 supported spliceosomal candidates; 15 Pol II; 9 U6/U6atac	Pol II: (Ser5P + ATAC) OR; (replicated sense PRO-seq + chromatin);; U6/U6atac: active chromatin support
+S6	a	Chicken	5	15	15 candidate Pol II splice-RNUs; 14 PRO-seq-supported; 1 Ser5P-supported	Exclude U6 and U6atac; (9 supported loci)
+S6	a	Chicken	6	14	14 Pol II splice-RNUs; retained for mutation analysis	Coverage AND mappability;; ≥50 effective callable bases;; exclude one locus with no callable bases

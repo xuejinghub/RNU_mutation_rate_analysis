@@ -1,0 +1,4 @@
+left_gene_set	right_gene_set	left_n	right_n	left_median	right_median	median_fold_left_over_right	mannwhitney_u	p_two_sided_asymptotic
+POL2_spliceRNUs_strict41	functional_U6_U6ATAC_116	37	110	2.026950574559825	0.8379385569438578	2.4189727967078514	3551.0	1.3399443692501072e-11
+POL2_spliceRNUs_strict41	RNU_pseudogene_operational_complement	37	1252	2.026950574559825	0.7701615699844011	2.6318510992451607	42005.0	3.0610529471494165e-17
+functional_U6_U6ATAC_116	RNU_pseudogene_operational_complement	110	1252	0.8379385569438578	0.7701615699844011	1.0880035950908709	74582.0	0.1479790957251073

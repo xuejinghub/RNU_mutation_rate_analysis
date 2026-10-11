@@ -1,0 +1,4 @@
+population	max_af	group	full_fig1_gene_count	retained_variants	masked_variants	total_variants	source_path	source_sha256
+Human ASJ	0.001	Pol II splice-RNUs	41	182	220	402	data/processed/figure2_fig1_gene_sets_20260825/results/human_asj/pol2_spliceRNUs_fig1_af1e-3.result	c4c36612ec19248d649e4c37dad3dab7b2dcc2b53aff8bd526137cd94e4cb7b7
+Human ASJ	0.001	U6	116	50	104	154	data/processed/figure2_fig1_gene_sets_20260825/results/human_asj/functional_U6s_fig1_af1e-3.result	64db63acea65f02729b85755095601e54312bfd57020b445ed0f79f9deab15f8
+Human ASJ	0.001	Pseudo-RNUs	1362	580	1344	1924	data/processed/figure2_pseudo1362_legacy_intervals_20261005/ASJ/pseudo.result	daf1791845a5004d288bdd5538e0b583d4cfaa038ff5679755d51a4090de85a9

@@ -1,0 +1,10 @@
+panel	gene_set	input_loci	valid_loci	excluded_loci	exclusion_reasons
+a	POLII spliceRNUs	37	37	0	{}
+a	U6/U6ATAC	116	110	6	"{""no_positive_finite_signal"": 6}"
+a	PseudoRNUs	1360	1252	108	"{""no_positive_finite_signal"": 108}"
+c	POLII spliceRNUs	37	32	5	"{""zero_input"": 5}"
+c	U6/U6ATAC	116	91	25	"{""zero_input"": 25}"
+c	PseudoRNUs	1360	1039	321	"{""zero_input"": 321}"
+e	POLII spliceRNUs	37	37	0	{}
+e	U6/U6ATAC	116	116	0	{}
+e	PseudoRNUs	1360	1360	0	{}

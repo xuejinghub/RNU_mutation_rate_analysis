@@ -1,0 +1,11 @@
+figure	panel	species	step	n	definition	incoming_filter
+S5	a	Mouse	1	1383	1,383 annotated snRNA genes; GENCODE vM25; chr1–19, X and Y	
+S5	a	Mouse	2	120	120 regulatory / named RNA candidates; 114 cCRE-overlapping OR 11 named	cCRE overlap OR named RNA list;; also adds Rnu73b (snoRNA)
+S5	a	Mouse	3	114	114 spliceosomal candidates; 50 Pol II; 64 U6/U6atac	Exclude six non-spliceosomal RNAs; (including U7 and Rnu73b)
+S5	a	Mouse	4	50	50 candidate Pol II splice-RNUs; seven spliceosomal families	Archived family assignments;; exclude U6 and U6atac (Pol III)
+S5	a	Mouse	5	39	39 Pol II splice-RNUs; retained for mutation analysis	Autosomes; coverage AND mappability;; ≥50 effective callable bases
+S5	c	Rat	1	1512	1,512 annotated snRNA genes; Ensembl release 112	
+S5	c	Rat	2	1418	1,418 autosomal snRNA genes; Ensembl / RGD + Rfam family assignment	Restrict to chromosomes 1–20
+S5	c	Rat	3	92	92 shared-ATAC spliceosomal candidates; 52 Pol II; 40 U6/U6atac	Spliceosomal families; TSS ±50 bp; overlaps the intersection of peak intervals; from two rat ATAC-seq atlases
+S5	c	Rat	4	52	52 candidate Pol II splice-RNUs; seven spliceosomal families	Exclude U6 and U6atac (40 loci)
+S5	c	Rat	5	46	46 Pol II splice-RNUs; retained for mutation analysis	Coverage AND mappability;; ≥50 effective callable bases

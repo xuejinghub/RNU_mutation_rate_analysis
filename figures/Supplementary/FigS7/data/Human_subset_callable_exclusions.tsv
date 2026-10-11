@@ -1,0 +1,1 @@
+cohort	scenario	stable_gene_id	display_name	analysis_group	exon_union_bp	callable_bp	sample_count	mask_bp	effective_callable_bp	rare_snv_position_count	rare_snv_alt_count	rare_snv_density_per_kb	chrom	start	end	strand	dataset	panel	column_order	organism	assembly	af_threshold	display_dataset	source_label	gene_set_label	filter_reason

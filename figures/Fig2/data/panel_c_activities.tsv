@@ -1,0 +1,220 @@
+group	model	signature	activity	proportion	full_fig1_gene_count
+Pol II splice-RNUs	base	SBS1	0.0	0.0	41
+U6	base	SBS1	3.2175399140589893	0.0600683046534612	116
+Pol II splice-RNUs	base	SBS5	198.4712783962237	1.0	41
+U6	base	SBS5	50.34714669764461	0.9399316953465388	116
+Pol II splice-RNUs	base_apobec	SBS1	0.0	0.0	41
+U6	base_apobec	SBS1	3.2877919096218378	0.0620279702154031	116
+Pol II splice-RNUs	base_apobec	SBS5	160.8341887246238	0.8151225836967806	41
+U6	base_apobec	SBS5	43.50627178908021	0.8207957817581878	116
+Pol II splice-RNUs	base_apobec	SBS2ss*	29.86810231293332	0.1513743123927641	41
+U6	base_apobec	SBS2ss*	5.817439720847444	0.1097526813295592	116
+Pol II splice-RNUs	base_apobec	SBS13	6.610594093414663	0.0335031039104552	41
+U6	base_apobec	SBS13	0.3934860747769608	0.0074235666968499	116
+Pol II splice-RNUs	all_cosmic	SBS1	0.0	0.0	41
+U6	all_cosmic	SBS1	3.496947867241741	0.0682269628706856	116
+Pol II splice-RNUs	all_cosmic	SBS2ss*	22.838717340140267	0.122074685818146	41
+U6	all_cosmic	SBS2ss*	6.164891105874992	0.1202796874733268	116
+Pol II splice-RNUs	all_cosmic	SBS3	0.0	0.0	41
+U6	all_cosmic	SBS3	0.0	0.0	116
+Pol II splice-RNUs	all_cosmic	SBS4	0.0	0.0	41
+U6	all_cosmic	SBS4	0.0	0.0	116
+Pol II splice-RNUs	all_cosmic	SBS5	0.0	0.0	41
+U6	all_cosmic	SBS5	0.0	0.0	116
+Pol II splice-RNUs	all_cosmic	SBS6	0.0	0.0	41
+U6	all_cosmic	SBS6	0.0	0.0	116
+Pol II splice-RNUs	all_cosmic	SBS7a	0.0	0.0	41
+U6	all_cosmic	SBS7a	0.0	0.0	116
+Pol II splice-RNUs	all_cosmic	SBS7b	0.0	0.0	41
+U6	all_cosmic	SBS7b	0.0	0.0	116
+Pol II splice-RNUs	all_cosmic	SBS7c	0.0	0.0	41
+U6	all_cosmic	SBS7c	0.0	0.0	116
+Pol II splice-RNUs	all_cosmic	SBS7d	9.54450521524154	0.0510161082204238	41
+U6	all_cosmic	SBS7d	8.629767334868735	0.1683704870336412	116
+Pol II splice-RNUs	all_cosmic	SBS8	0.0	0.0	41
+U6	all_cosmic	SBS8	0.0	0.0	116
+Pol II splice-RNUs	all_cosmic	SBS9	0.0	0.0	41
+U6	all_cosmic	SBS9	0.0	0.0	116
+Pol II splice-RNUs	all_cosmic	SBS10a	2.5892485515958628	0.0138397309592174	41
+U6	all_cosmic	SBS10a	0.0	0.0	116
+Pol II splice-RNUs	all_cosmic	SBS10b	3.3798424211727127	0.0180655154812195	41
+U6	all_cosmic	SBS10b	4.698661359625648	0.0916729120065384	116
+Pol II splice-RNUs	all_cosmic	SBS10c	0.0	0.0	41
+U6	all_cosmic	SBS10c	0.0	0.0	116
+Pol II splice-RNUs	all_cosmic	SBS10d	0.0	0.0	41
+U6	all_cosmic	SBS10d	0.0	0.0	116
+Pol II splice-RNUs	all_cosmic	SBS11	33.01638215891752	0.1764750804029585	41
+U6	all_cosmic	SBS11	0.0	0.0	116
+Pol II splice-RNUs	all_cosmic	SBS12	0.0	0.0	41
+U6	all_cosmic	SBS12	0.0	0.0	116
+Pol II splice-RNUs	all_cosmic	SBS13	9.087467261470891	0.0485732055047156	41
+U6	all_cosmic	SBS13	1.0944830819165627	0.0213538375255832	116
+Pol II splice-RNUs	all_cosmic	SBS14	0.0	0.0	41
+U6	all_cosmic	SBS14	0.0	0.0	116
+Pol II splice-RNUs	all_cosmic	SBS15	0.0	0.0	41
+U6	all_cosmic	SBS15	0.0	0.0	116
+Pol II splice-RNUs	all_cosmic	SBS16	32.26800688830937	0.1724749575119504	41
+U6	all_cosmic	SBS16	12.377497924729497	0.2414903291105111	116
+Pol II splice-RNUs	all_cosmic	SBS17a	0.0	0.0	41
+U6	all_cosmic	SBS17a	0.0	0.0	116
+Pol II splice-RNUs	all_cosmic	SBS17b	3.265905894993934	0.0174565160602213	41
+U6	all_cosmic	SBS17b	0.0	0.0	116
+Pol II splice-RNUs	all_cosmic	SBS18	0.0	0.0	41
+U6	all_cosmic	SBS18	0.0	0.0	116
+Pol II splice-RNUs	all_cosmic	SBS19	7.440581142381298	0.0397704736099264	41
+U6	all_cosmic	SBS19	0.0	0.0	116
+Pol II splice-RNUs	all_cosmic	SBS20	0.0	0.0	41
+U6	all_cosmic	SBS20	0.0	0.0	116
+Pol II splice-RNUs	all_cosmic	SBS21	0.0	0.0	41
+U6	all_cosmic	SBS21	1.820166591855631	0.0355122361543663	116
+Pol II splice-RNUs	all_cosmic	SBS22a	0.0	0.0	41
+U6	all_cosmic	SBS22a	0.0	0.0	116
+Pol II splice-RNUs	all_cosmic	SBS22b	0.0	0.0	41
+U6	all_cosmic	SBS22b	0.0	0.0	116
+Pol II splice-RNUs	all_cosmic	SBS23	0.0	0.0	41
+U6	all_cosmic	SBS23	7.368694404140909	0.143766409624315	116
+Pol II splice-RNUs	all_cosmic	SBS24	0.0	0.0	41
+U6	all_cosmic	SBS24	2.137589784232584	0.0417052997008581	116
+Pol II splice-RNUs	all_cosmic	SBS25	0.0	0.0	41
+U6	all_cosmic	SBS25	0.0	0.0	116
+Pol II splice-RNUs	all_cosmic	SBS26	0.0	0.0	41
+U6	all_cosmic	SBS26	0.0	0.0	116
+Pol II splice-RNUs	all_cosmic	SBS28	0.0	0.0	41
+U6	all_cosmic	SBS28	0.0	0.0	116
+Pol II splice-RNUs	all_cosmic	SBS29	0.0	0.0	41
+U6	all_cosmic	SBS29	0.0	0.0	116
+Pol II splice-RNUs	all_cosmic	SBS30	0.0	0.0	41
+U6	all_cosmic	SBS30	0.0	0.0	116
+Pol II splice-RNUs	all_cosmic	SBS31	0.0	0.0	41
+U6	all_cosmic	SBS31	0.0	0.0	116
+Pol II splice-RNUs	all_cosmic	SBS32	0.0	0.0	41
+U6	all_cosmic	SBS32	0.0	0.0	116
+Pol II splice-RNUs	all_cosmic	SBS33	12.492707268260514	0.0667744730178268	41
+U6	all_cosmic	SBS33	0.0	0.0	116
+Pol II splice-RNUs	all_cosmic	SBS34	0.0	0.0	41
+U6	all_cosmic	SBS34	0.0	0.0	116
+Pol II splice-RNUs	all_cosmic	SBS35	0.0	0.0	41
+U6	all_cosmic	SBS35	0.0	0.0	116
+Pol II splice-RNUs	all_cosmic	SBS36	0.0	0.0	41
+U6	all_cosmic	SBS36	0.0	0.0	116
+Pol II splice-RNUs	all_cosmic	SBS37	0.0	0.0	41
+U6	all_cosmic	SBS37	0.0	0.0	116
+Pol II splice-RNUs	all_cosmic	SBS38	0.0	0.0	41
+U6	all_cosmic	SBS38	0.0	0.0	116
+Pol II splice-RNUs	all_cosmic	SBS39	0.0	0.0	41
+U6	all_cosmic	SBS39	0.0	0.0	116
+Pol II splice-RNUs	all_cosmic	SBS40a	0.0	0.0	41
+U6	all_cosmic	SBS40a	0.0	0.0	116
+Pol II splice-RNUs	all_cosmic	SBS40b	0.0	0.0	41
+U6	all_cosmic	SBS40b	0.0	0.0	116
+Pol II splice-RNUs	all_cosmic	SBS40c	0.0	0.0	41
+U6	all_cosmic	SBS40c	0.0	0.0	116
+Pol II splice-RNUs	all_cosmic	SBS41	0.0	0.0	41
+U6	all_cosmic	SBS41	0.0	0.0	116
+Pol II splice-RNUs	all_cosmic	SBS42	0.0	0.0	41
+U6	all_cosmic	SBS42	0.0	0.0	116
+Pol II splice-RNUs	all_cosmic	SBS44	0.0	0.0	41
+U6	all_cosmic	SBS44	0.0	0.0	116
+Pol II splice-RNUs	all_cosmic	SBS84	22.937727836441628	0.12260390447122	41
+U6	all_cosmic	SBS84	0.0	0.0	116
+Pol II splice-RNUs	all_cosmic	SBS85	0.0	0.0	41
+U6	all_cosmic	SBS85	0.0	0.0	116
+Pol II splice-RNUs	all_cosmic	SBS86	0.0	0.0	41
+U6	all_cosmic	SBS86	0.0	0.0	116
+Pol II splice-RNUs	all_cosmic	SBS87	7.185224631846709	0.0384055735881402	41
+U6	all_cosmic	SBS87	0.0	0.0	116
+Pol II splice-RNUs	all_cosmic	SBS88	0.0	0.0	41
+U6	all_cosmic	SBS88	0.0	0.0	116
+Pol II splice-RNUs	all_cosmic	SBS89	0.0	0.0	41
+U6	all_cosmic	SBS89	0.0	0.0	116
+Pol II splice-RNUs	all_cosmic	SBS90	0.0	0.0	41
+U6	all_cosmic	SBS90	0.0	0.0	116
+Pol II splice-RNUs	all_cosmic	SBS91	0.0	0.0	41
+U6	all_cosmic	SBS91	0.0	0.0	116
+Pol II splice-RNUs	all_cosmic	SBS92	0.0	0.0	41
+U6	all_cosmic	SBS92	0.0	0.0	116
+Pol II splice-RNUs	all_cosmic	SBS93	0.0	0.0	41
+U6	all_cosmic	SBS93	0.0	0.0	116
+Pol II splice-RNUs	all_cosmic	SBS94	0.0	0.0	41
+U6	all_cosmic	SBS94	0.0	0.0	116
+Pol II splice-RNUs	all_cosmic	SBS96	21.04175318088778	0.1124697753540337	41
+U6	all_cosmic	SBS96	2.586318722440573	0.050460195046286	116
+Pol II splice-RNUs	all_cosmic	SBS97	0.0	0.0	41
+U6	all_cosmic	SBS97	0.0	0.0	116
+Pol II splice-RNUs	all_cosmic	SBS98	0.0	0.0	41
+U6	all_cosmic	SBS98	0.8796137179399786	0.0171616434538879	116
+Pol II splice-RNUs	all_cosmic	SBS99	0.0	0.0	41
+U6	all_cosmic	SBS99	0.0	0.0	116
+Pseudo-RNUs	base	SBS1	85.97692846583266	0.1405098609763813	1362
+Pseudo-RNUs	base	SBS5	525.9155598505906	0.8594901390236187	1362
+Pseudo-RNUs	base_apobec	SBS1	85.97692846583266	0.1405098609763813	1362
+Pseudo-RNUs	base_apobec	SBS5	525.9155598505906	0.8594901390236187	1362
+Pseudo-RNUs	base_apobec	SBS2ss*	0.0	0.0	1362
+Pseudo-RNUs	base_apobec	SBS13	0.0	0.0	1362
+Pseudo-RNUs	all_cosmic	SBS1	89.71781150054147	0.1495616405825971	1362
+Pseudo-RNUs	all_cosmic	SBS2ss*	0.0	0.0	1362
+Pseudo-RNUs	all_cosmic	SBS3	0.0	0.0	1362
+Pseudo-RNUs	all_cosmic	SBS4	0.0	0.0	1362
+Pseudo-RNUs	all_cosmic	SBS5	423.2842832500978	0.7056245663697593	1362
+Pseudo-RNUs	all_cosmic	SBS6	0.0	0.0	1362
+Pseudo-RNUs	all_cosmic	SBS7a	0.0	0.0	1362
+Pseudo-RNUs	all_cosmic	SBS7b	0.0	0.0	1362
+Pseudo-RNUs	all_cosmic	SBS7c	0.0	0.0	1362
+Pseudo-RNUs	all_cosmic	SBS7d	0.0	0.0	1362
+Pseudo-RNUs	all_cosmic	SBS8	0.0	0.0	1362
+Pseudo-RNUs	all_cosmic	SBS9	0.0	0.0	1362
+Pseudo-RNUs	all_cosmic	SBS10a	0.0	0.0	1362
+Pseudo-RNUs	all_cosmic	SBS10b	0.0	0.0	1362
+Pseudo-RNUs	all_cosmic	SBS10c	0.0	0.0	1362
+Pseudo-RNUs	all_cosmic	SBS10d	0.0	0.0	1362
+Pseudo-RNUs	all_cosmic	SBS11	0.0	0.0	1362
+Pseudo-RNUs	all_cosmic	SBS12	61.71627965887104	0.1028824475547914	1362
+Pseudo-RNUs	all_cosmic	SBS13	0.0	0.0	1362
+Pseudo-RNUs	all_cosmic	SBS14	0.0	0.0	1362
+Pseudo-RNUs	all_cosmic	SBS15	0.0	0.0	1362
+Pseudo-RNUs	all_cosmic	SBS16	0.0	0.0	1362
+Pseudo-RNUs	all_cosmic	SBS17a	0.0	0.0	1362
+Pseudo-RNUs	all_cosmic	SBS17b	0.0	0.0	1362
+Pseudo-RNUs	all_cosmic	SBS18	0.0	0.0	1362
+Pseudo-RNUs	all_cosmic	SBS19	0.0	0.0	1362
+Pseudo-RNUs	all_cosmic	SBS20	0.0	0.0	1362
+Pseudo-RNUs	all_cosmic	SBS21	0.0	0.0	1362
+Pseudo-RNUs	all_cosmic	SBS22a	0.0	0.0	1362
+Pseudo-RNUs	all_cosmic	SBS22b	0.0	0.0	1362
+Pseudo-RNUs	all_cosmic	SBS23	25.15343196448946	0.041931345492852	1362
+Pseudo-RNUs	all_cosmic	SBS24	0.0	0.0	1362
+Pseudo-RNUs	all_cosmic	SBS25	0.0	0.0	1362
+Pseudo-RNUs	all_cosmic	SBS26	0.0	0.0	1362
+Pseudo-RNUs	all_cosmic	SBS28	0.0	0.0	1362
+Pseudo-RNUs	all_cosmic	SBS29	0.0	0.0	1362
+Pseudo-RNUs	all_cosmic	SBS30	0.0	0.0	1362
+Pseudo-RNUs	all_cosmic	SBS31	0.0	0.0	1362
+Pseudo-RNUs	all_cosmic	SBS32	0.0	0.0	1362
+Pseudo-RNUs	all_cosmic	SBS33	0.0	0.0	1362
+Pseudo-RNUs	all_cosmic	SBS34	0.0	0.0	1362
+Pseudo-RNUs	all_cosmic	SBS35	0.0	0.0	1362
+Pseudo-RNUs	all_cosmic	SBS36	0.0	0.0	1362
+Pseudo-RNUs	all_cosmic	SBS37	0.0	0.0	1362
+Pseudo-RNUs	all_cosmic	SBS38	0.0	0.0	1362
+Pseudo-RNUs	all_cosmic	SBS39	0.0	0.0	1362
+Pseudo-RNUs	all_cosmic	SBS40a	0.0	0.0	1362
+Pseudo-RNUs	all_cosmic	SBS40b	0.0	0.0	1362
+Pseudo-RNUs	all_cosmic	SBS40c	0.0	0.0	1362
+Pseudo-RNUs	all_cosmic	SBS41	0.0	0.0	1362
+Pseudo-RNUs	all_cosmic	SBS42	0.0	0.0	1362
+Pseudo-RNUs	all_cosmic	SBS44	0.0	0.0	1362
+Pseudo-RNUs	all_cosmic	SBS84	0.0	0.0	1362
+Pseudo-RNUs	all_cosmic	SBS85	0.0	0.0	1362
+Pseudo-RNUs	all_cosmic	SBS86	0.0	0.0	1362
+Pseudo-RNUs	all_cosmic	SBS87	0.0	0.0	1362
+Pseudo-RNUs	all_cosmic	SBS88	0.0	0.0	1362
+Pseudo-RNUs	all_cosmic	SBS89	0.0	0.0	1362
+Pseudo-RNUs	all_cosmic	SBS90	0.0	0.0	1362
+Pseudo-RNUs	all_cosmic	SBS91	0.0	0.0	1362
+Pseudo-RNUs	all_cosmic	SBS92	0.0	0.0	1362
+Pseudo-RNUs	all_cosmic	SBS93	0.0	0.0	1362
+Pseudo-RNUs	all_cosmic	SBS94	0.0	0.0	1362
+Pseudo-RNUs	all_cosmic	SBS96	0.0	0.0	1362
+Pseudo-RNUs	all_cosmic	SBS97	0.0	0.0	1362
+Pseudo-RNUs	all_cosmic	SBS98	0.0	0.0	1362
+Pseudo-RNUs	all_cosmic	SBS99	0.0	0.0	1362

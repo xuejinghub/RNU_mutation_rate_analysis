@@ -1,0 +1,8 @@
+figure	panel	species	step	n	definition	incoming_filter
+S2	a	Chimpanzee	1	41	41 human Pol II splice-RNUs; processed within their own query class	
+S2	a	Chimpanzee	2	41	41 positional candidate assignments; 36 core; 5 flank-supported	Macaque-style gene-body / flank synteny;; family-compatible annotation;; sequence-supported rescue prioritized
+S2	a	Chimpanzee	3	28	28 one-to-one synteny relationships; 27 core; 1 flank-supported	Require unique targets within Pol II class;; exclude 13 target-sharing queries
+S2	c	Baboon	1	41	41 human Pol II splice-RNUs; used as mapping queries	
+S2	c	Baboon	2	27	27 one-to-one synteny relationships; with annotated snRNA targets	Macaque-style core / flank synteny;; Ensembl release 115 snRNA targets
+S2	c	Baboon	3	23	23 autosomal; Pol II splice-RNU candidates	Restrict to chromosomes 1–20; (exclude four scaffold loci)
+S2	c	Baboon	4	18	18 baboon Pol II splice-RNUs; retained for mutation analysis	Coverage AND mappability;; ≥50 effective callable bases
