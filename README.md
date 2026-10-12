@@ -53,4 +53,4 @@ This repository is available under the [MIT License](LICENSE.md). Third-party so
 
 ## Contact
 
-If you encounter any issues with this repository or have questions beyond the scope of the provided documentation, please feel free to contact us via **[e-mail](mailto:jingxue1992@gmail.com)** or open an **[issue on GitHub]()**.
+If you encounter any issues with this repository or have questions beyond the scope of the provided documentation, please feel free to contact us via **[e-mail](mailto:jingxue1992@gmail.com)** or open an **[issue on GitHub](https://github.com/xuejinghub/RNU_mutation_rate_analysis/issues)**.
