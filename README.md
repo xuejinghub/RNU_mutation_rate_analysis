@@ -45,7 +45,7 @@ python scripts/reproduce.py --figure all
 Use `--figure Fig1`, `Fig2`, `Fig3` or `Supplementary` to render a subset. The plotting command reads bundled processed tables and writes PDF, SVG and 300-dpi PNG files under `figures/final/`.
 The plotting command directly renders saved results. 
 
-`processing/` contains the final-related processing modules.Actual processing requires the corresponding VCFs, reference assemblies, genomic tracks and intermediate tables, with paths configured for the local installation. Depending on the stage, additional Python packages include `pysam`, `cyvcf2`, `pyBigWig` and MuSiCal (`musical`); command-line tools include bedtools, bcftools and samtools. These production dependencies are separate from the plotting environment.
+`processing/` contains the final-related processing modules. Actual processing requires the corresponding VCFs, reference assemblies, genomic tracks and intermediate tables, with paths configured for the local installation. Depending on the stage, additional Python packages include `pysam`, `cyvcf2`, `pyBigWig` and MuSiCal (`musical`); command-line tools include bedtools, bcftools and samtools. These production dependencies are separate from the plotting environment.
 
 ## License
 
