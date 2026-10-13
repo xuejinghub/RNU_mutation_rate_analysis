@@ -36,9 +36,6 @@ Tested plotting environment: Python 3.10.8, NumPy 1.24.4, pandas 1.5.3, SciPy 1.
 # Compile the Python sources.
 python -m compileall -q scripts
 python -m compileall -q processing
-
-# Install/use licensed Arial; no font files are distributed here.
-export RNU_FONT_DIR=/path/to/licensed/arial/fonts
 python scripts/reproduce.py --figure all
 ```
 
